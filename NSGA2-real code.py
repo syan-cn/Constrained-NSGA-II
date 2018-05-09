@@ -27,7 +27,7 @@ pm=0.1                 # Mutation Probability
 def problem(x):
     '''
     1.This function returns the objective functions f1, f2, ..., fM in the vector 'fit' and constraints in the vector 'c' for the chromosome 'x'. 
-    2.All the constraints 'c' are converted to the form h(x)<=0.
+    2.All the objects 'fit' are converted to the form min f(x), and all the constraints 'c' are converted to the form h(x)<=0.
     '''
     fit = np.zeros(M)
     c = np.zeros(C)
