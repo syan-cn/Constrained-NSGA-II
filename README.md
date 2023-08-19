@@ -1,4 +1,4 @@
-# ConstrainedNSGA2
+# Constrained NSGA2
 This is an implementation of the Non-dominated Sorting Genetic Algorithm II (NSGA-II) for solving multi-objective optimization problems with constraints. 
 It includes a Problem class for defining optimization problems and the main ConstrainedNSGA2 class for solving them. 
 
@@ -20,7 +20,3 @@ The script demonstrates how to define custom optimization problems, create Const
 
 1. Deb, K., Pratap, A., Agarwal, S., & Meyarivan, T. A. M. T. (2002). A fast and elitist multiobjective genetic algorithm: NSGA-II. *IEEE transactions on evolutionary computation*, *6*(2), 182-197.
 2. Deb, K., Agrawal, S. (1999). A Niched-Penalty Approach for Constraint Handling in Genetic Algorithms. In: *Artificial Neural Nets and Genetic Algorithms*. Springer, Vienna.
-
-## Author
-
-YanSen
